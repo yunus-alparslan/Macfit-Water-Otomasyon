@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\bin\Debug\Proje8.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\bin\Debug\Proje8.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\bin\Debug\Proje8.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\obj\Debug\Proje8.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\obj\Debug\Proje8.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\obj\Debug\Proje8.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\obj\Debug\Proje8.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\obj\Debug\Proje8.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\8-Proje\Proje8\Proje8\obj\Debug\Proje8.pdb
